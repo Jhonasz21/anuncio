@@ -1,0 +1,9 @@
+com/calculadora/anuncio/model/Cliente.class
+com/calculadora/anuncio/model/AnuncioRelatorio.class
+com/calculadora/anuncio/repository/ClienteRepository.class
+com/calculadora/anuncio/AnuncioApplication.class
+com/calculadora/anuncio/service/AnuncioService.class
+com/calculadora/anuncio/comfig/SwaggerConfig.class
+com/calculadora/anuncio/repository/AnuncioRepository.class
+com/calculadora/anuncio/model/Anuncio.class
+com/calculadora/anuncio/controller/AnuncioController.class
